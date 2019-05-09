@@ -1,0 +1,16 @@
+{
+  "name": "code-katas",
+  "version": "1.0.0",
+  "description": "Code katas from https://www.codewars.com/",
+  "author": "Noel Espino Córdova <noelespinocordova@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint katas/**/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.17.2"
+  }
+}
